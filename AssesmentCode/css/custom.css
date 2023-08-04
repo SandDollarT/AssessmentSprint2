@@ -1,0 +1,55 @@
+.front{
+    border-color: rgb(67, 87, 133) !important;
+    border-width: 3.5px !important;
+}
+
+.container{
+    color:rgb(202, 202, 216) !important;
+    border-color:rgb(88, 89, 101) !important;
+    border-width: 5px !important;
+    font-size: 25px !important;
+}
+
+.navbar-brand{
+    color:rgb(223, 240, 255);
+    font-size: 40px !important;
+}
+
+body{
+    background-color: rgb(241, 252, 255);
+    background-color: rgb(11, 13, 35);
+}
+
+p .card-title{
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+
+p .page-bottom{
+    color:rgb(105, 127, 189) !important;
+}
+
+.a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif  !important;
+}
+
+.main-text{
+    font-size: 20px !important;
+    color:rgb(202, 202, 216) !important;
+}
+
+.navbar{
+    background-color: rgb(20, 24, 57) !important;
+}
+
+.card-body{
+    color:rgb(202, 202, 216) !important;
+    background-color: rgb(20, 24, 57);
+}
+
+.sr-only{
+    color:aquamarine !important;
+}
+
+h1{
+    color:rgb(202, 202, 216) !important;
+}
