@@ -11,8 +11,18 @@
 }
 
 .navbar-brand{
-    color:rgb(225, 229, 235) !important;
-    font-size: 40px !important;
+    background-color: rgb(20, 24, 57) !important;
+    color:rgb(202, 202, 216) !important;
+    border-color: rgb(67, 87, 133) !important;
+    border-width: 3.5px !important;
+    font-size: 50px !important;
+}
+
+.btn{
+    background-color: rgb(20, 24, 57) !important;
+    color:rgb(202, 202, 216) !important;
+    border-color: rgb(67, 87, 133) !important;
+    border-width: 3.5px !important;
 }
 
 body{

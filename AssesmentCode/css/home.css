@@ -2,25 +2,15 @@ h2{
     color:rgb(225, 229, 235) !important;
 }
 
-.btn{
-    background-color: rgb(20, 24, 57) !important;
-    color:rgb(202, 202, 216) !important;
-    border-color: rgb(67, 87, 133) !important;
-    border-width: 3.5px !important;
-}
-
 h4{
     color:rgb(225, 229, 235) !important;
 }
 
-.navbar-brand{
-    background-color: rgb(20, 24, 57) !important;
-    color:rgb(202, 202, 216) !important;
-    border-color: rgb(67, 87, 133) !important;
-    border-width: 3.5px !important;
-    font-size: 50px !important;
-}
-
 .container{
     border-width: 0px !important;
+}
+
+.findSection{
+    background-color: rgb(19, 24, 63) !important;
+
 }
